@@ -58,14 +58,14 @@ a:hover {
 
 .header-home {
   text-align: center;
-  background: url('images/background-image.png') no-repeat top center ;
+  background: url('images/background-image.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   /* padding-top: 60px; */
 }
 .header-about {
   text-align: center;
-  background: url('images/about-image.jpg') no-repeat top center ;
+  background: url('images/about-image1.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   /* padding-top: 60px; */
